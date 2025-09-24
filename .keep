@@ -1,0 +1,5 @@
+mkdir docs
+touch docs/.keep
+git add docs/.keep
+git commit -m "Add missing docs directory to fix Jekyll build"
+git push
